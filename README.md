@@ -35,8 +35,8 @@ DELETE /items/:id: Delete an item by ID.
 Database Configuration
 Ensure that MongoDB is installed and running. The default configuration connects to a MongoDB instance running locally at mongodb://localhost:27017/mydatabase.
 
-screenshots.
-gat a movie based on id.
+screenshots
+gat all movies.
 ![Screenshot 2024-05-17 143008](https://github.com/vamsiKrishna-511/credence_backend_assignment/assets/116443206/d4473bbc-f029-4bfd-acb3-085c1d5c42f4)
-gat all movies
+gat a movie based on id.
 ![Screenshot 2024-05-17 142739](https://github.com/vamsiKrishna-511/credence_backend_assignment/assets/116443206/88d0c6e4-577b-4275-84cf-54a4f61fb37c)
