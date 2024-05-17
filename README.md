@@ -37,11 +37,11 @@ Ensure that MongoDB is installed and running. The default configuration connects
 
 screenshots 
 
-get all movies
+get movies based on id
 
 ![Screenshot 2024-05-17 142739](https://github.com/vamsiKrishna-511/credence_backend_assignment/assets/116443206/4cdf54e9-8633-4035-9c43-e460db958ac3)
 
 
-get movies based on id
+get all movies 
 
 ![Screenshot 2024-05-17 143008](https://github.com/vamsiKrishna-511/credence_backend_assignment/assets/116443206/e199921c-0a87-46c2-893f-99fbaeac9aea)
